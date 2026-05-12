@@ -12,11 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Ethical+Hacker+%F0%9F%94%90;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Still+Learning+%E2%80%94+One+Scan+at+a+Time+%F0%9F%93%A1;Break+Things+Ethically+%F0%9F%A7%AA)](https://git.io/typing-svg)
 
-<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00ff41&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/yourusername)
 
 </div>
 
@@ -28,11 +24,11 @@
 $ whoami
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   Name     : [Nama Kamu]                                    │
-│   Role     : Beginner Ethical Hacker 🔰                     │
+│   Name     : Muhamad Nur Afni Alief                                   │
+│   Role     : Beginner Ethical Hacker🔰                     │
 │   Status   : Learning & Breaking Things (Legally) 🧪        │
 │   Mission  : Understand systems to protect them 🛡️          │
-│   OS       : Kali Linux / Parrot OS                         │
+│   OS       : Kali Linux                          │
 │   Location : Indonesia 🇮🇩                                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -185,8 +181,6 @@ Teknik yang dipelajari:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Newbie-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Noob%20Mode-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-Learning-blue?style=for-the-badge&logoColor=white)](https://picoctf.org)
-
 </div>
 
 ---
@@ -213,8 +207,8 @@ Teknik yang dipelajari:
 ║  Semua teknik dan alat yang saya pelajari HANYA digunakan    ║
 ║  pada:                                                       ║
 ║    ✅ Mesin virtual milik sendiri                            ║
-║    ✅ Lab yang disediakan (TryHackMe, HTB, dll.)             ║
-║    ✅ Sistem dengan IZIN EKSPLISIT pemiliknya                ║
+║    ✅ Lab yang disediakan (TryHackMe, VirtualBox Machine)             ║
+║    ✅ Sistem dengan IZIN EKSPLISIT pemiliknya (Metasploit 2)               ║
 ║                                                              ║
 ║  Ethical Hacking = Hack dengan izin, untuk kebaikan.        ║
 ║  Unauthorized access adalah ILEGAL. 🚫                       ║

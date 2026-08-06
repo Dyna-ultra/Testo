@@ -24,19 +24,17 @@
 $ whoami
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   Name     : Muhamad Nur Afni Alief                                   │
-│   Role     : Beginner Ethical Hacker🔰                     │
-│   Status   : Learning & Breaking Things (Legally) 🧪        │
-│   Mission  : Understand systems to protect them 🛡️          │
-│   OS       : Kali Linux                          │
-│   Location : Indonesia 🇮🇩                                   │
+│   Name     : Muhamad Nur Afni Alief                         │
+│   Role     : Beginner Ethical Hacker🔰                      │
+│   Mission  : Get a lot of money                             │     
+│   Location : Ursus                                          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-Halo! Saya seorang pemula yang sedang mendalami dunia **Ethical Hacking** dan **Cybersecurity**. Masih banyak yang harus dipelajari — setiap hari adalah kesempatan baru untuk memahami cara kerja sistem, jaringan, dan bagaimana cara melindunginya.
+Halo! Saya seorang pemula yang sedang mendalami dunia  **Cybersecurity**. Masih banyak kegagalan yang harus dicoba dan kemenangan yang diraih.
 
 > *"The quieter you become, the more you are able to hear."* — Kali Linux
 
@@ -50,10 +48,10 @@ Halo! Saya seorang pemula yang sedang mendalami dunia **Ethical Hacking** dan **
  ✅  Dasar-dasar Jaringan (TCP/IP, DNS, HTTP)
  ✅  Linux Command Line
  ✅  Reconnaissance & Information Gathering
- 🔄  Network Scanning (sedang dipelajari...)
- 🔄  Vulnerability Assessment (sedang dipelajari...)
- ⏳  Web Application Pentesting
- ⏳  Privilege Escalation
+ ✅  Network Scanning (Nmap, Wireshark)
+ ✅ Vulnerability Assessment 
+ ✅ Web Application Pentesting
+ ✅Privilege Escalation
  ⏳  CTF Challenges
 ```
 
@@ -61,7 +59,7 @@ Halo! Saya seorang pemula yang sedang mendalami dunia **Ethical Hacking** dan **
 
 ## `> tools --list`
 
-> 🧰 Ini adalah senjata (belajar) saya saat ini — masih dalam tahap mengenal dan berlatih!
+> 🧰 Ini adalah senjata saya saat ini — masih dalam tahap berlatih!
 
 <br/>
 
@@ -201,16 +199,16 @@ Teknik yang dipelajari:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    ⚠️  DISCLAIMER ⚠️                          ║
+║                    ⚠️  DISCLAIMER ⚠️                         ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  Semua teknik dan alat yang saya pelajari HANYA digunakan    ║
 ║  pada:                                                       ║
 ║    ✅ Mesin virtual milik sendiri                            ║
-║    ✅ Lab yang disediakan (TryHackMe, VirtualBox Machine)             ║
-║    ✅ Sistem dengan IZIN EKSPLISIT pemiliknya (Metasploit 2)               ║
+║    ✅ Lab yang disediakan (TryHackMe, VirtualBox Machine)    ║
+║    ✅ Sistem dengan IZIN EKSPLISIT pemiliknya (Metasploit 2) ║
 ║                                                              ║
-║  Ethical Hacking = Hack dengan izin, untuk kebaikan.        ║
+║  Ethical Hacking = Hack dengan izin, untuk kebaikan.         ║
 ║  Unauthorized access adalah ILEGAL. 🚫                       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -235,10 +233,9 @@ Teknik yang dipelajari:
 ```
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│   "A journey of a thousand miles begins             │
-│    with a single nmap scan." 🗺️                     │
+│   "!Freedom is the right of all nations!" 🗺️        │
 │                                                     │
-│            — Me, probably (still a noob)            │
+│            — Myself                                 │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```

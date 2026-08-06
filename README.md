@@ -34,7 +34,7 @@ $ whoami
 
 <br/>
 
-Halo! Saya seorang pemula yang sedang mendalami dunia  **Cybersecurity**. Masih banyak kegagalan yang harus dicoba dan kemenangan yang diraih.
+Halo! Saya seorang pemula yang sedang mendalami dunia  **Cybersecurity**. Masih banyak kegagalan yang harus dicoba dan kemenangan yang harus diraih.
 
 > *"The quieter you become, the more you are able to hear."* — Kali Linux
 
